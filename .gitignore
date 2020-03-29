@@ -349,3 +349,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/linux,macos,python,pycharm,windows,intellij,jupyternotebooks
+/migrate_script.py
