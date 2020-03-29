@@ -91,4 +91,4 @@ One shape can easily contain hundreds of vertices.
 
 This project was partly meant to learn MongoDB (Atlas).
 
-See my personal documentation of their python API `pymongo` [here](https://github.com/dostuffthatmatters/mongodb-zip-codes-dataset/blob/master/notebooks/mongodb_setup.md).
+See my personal documentation of their python API `pymongo` [here](https://github.com/dostuffthatmatters/mongodb-zip-codes-database/blob/master/notebooks/mongodb_setup.md).
